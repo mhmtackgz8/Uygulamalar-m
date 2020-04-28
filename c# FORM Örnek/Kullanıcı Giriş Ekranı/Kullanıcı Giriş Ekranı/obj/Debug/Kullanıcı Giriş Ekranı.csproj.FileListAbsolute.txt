@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\bin\Debug\Kullanıcı Giriş Ekranı.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\bin\Debug\Kullanıcı Giriş Ekranı.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\bin\Debug\Kullanıcı Giriş Ekranı.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı Giriş Ekranı.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı_Giriş_Ekranı.KullanıcıGirişForm.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı_Giriş_Ekranı.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı Giriş Ekranı.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı Giriş Ekranı.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\Kullanıcı Giriş Ekranı\Kullanıcı Giriş Ekranı\obj\Debug\Kullanıcı Giriş Ekranı.pdb

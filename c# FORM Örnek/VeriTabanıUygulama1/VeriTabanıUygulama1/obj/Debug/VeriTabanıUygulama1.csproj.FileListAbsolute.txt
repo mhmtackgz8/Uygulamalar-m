@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\bin\Debug\VeriTabanıUygulama1.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\bin\Debug\VeriTabanıUygulama1.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\bin\Debug\VeriTabanıUygulama1.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.Form1.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabanıUygulama1\VeriTabanıUygulama1\obj\Debug\VeriTabanıUygulama1.pdb

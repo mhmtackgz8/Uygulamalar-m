@@ -1,0 +1,11 @@
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfo.cs
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.exe
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.deps.json
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.json
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\bin\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\Pc\Desktop\C# consol\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.csprojAssemblyReference.cache

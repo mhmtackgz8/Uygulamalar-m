@@ -1,0 +1,17 @@
+
+<input type="text" id="kenar1" placeholder="1. Kenarı girin">
+<input type="text" id="kenar2" placeholder="2. Kenarı girin">
+<input type="button" value="Hesapla" id="hesapla">
+<script>
+function hesapla(){
+var sayi1=document.getElementById("kenar1").value;
+var sayi2=document.getElementById("kenar2").value;
+sayi1=Number(sayi1);
+sayi2=Number(sayi2);
+var alan=sayi1*sayi2;
+var cevre=(sayi1+sayi2)*2;
+alert("Dikdörtgenin alanı:"+alan+" \n Dikdörtgenin çevresi:"+cevre);
+}
+var hesapBtn=document.getElementById("hesapla");
+hesapBtn.onclick=hesapla;
+</script>

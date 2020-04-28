@@ -1,0 +1,2 @@
+biryazi="Mehmet"
+print(biryazi)

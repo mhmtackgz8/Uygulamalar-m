@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>yazilimkodlama.com</title>
+</head>
+ 
+<body>
+	<h2>Dikgörtgen Alan Hesaplama</h2>
+	<input placeholder="Uzun Kenarı girin" type="text" class="Dikgörtgen" id="textKenar1">
+	<input placeholder="Kısa Kenarı girin" type="text" id="textKenar2">
+	<button id="btn">HESAPLA</button>
+	<div id="sonuc"></div>
+ 
+	<script>
+		function Hesapla()
+		{
+			var k1=Number(document.getElementById("txtKenar1").value);
+			var k2=Number(document.getElementById("txtKenar2").value);
+			var hipotenus=Math.sqrt(k1*k2);
+			document.getElementById("sonuc").innerHTML="Hipotenüs : "+hipotenus;
+		}
+		
+		
+		var hesapBtn=document.getElementById("btn").style.backgroundColor="red"
+		hesapBtn.onclick=Hesapla;
+		
+	</script>
+	
+</body>
+</html>
+ 

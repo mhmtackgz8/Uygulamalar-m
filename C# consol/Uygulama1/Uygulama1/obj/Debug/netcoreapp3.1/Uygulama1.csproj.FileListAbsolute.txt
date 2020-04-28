@@ -1,0 +1,11 @@
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.exe
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.deps.json
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.runtimeconfig.json
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.dll
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.pdb
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.AssemblyInfo.cs
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.dll
+C:\Users\Pc\Desktop\C# consol\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.pdb

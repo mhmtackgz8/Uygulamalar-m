@@ -1,0 +1,11 @@
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\bin\Debug\Bunifi1.exe.config
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\bin\Debug\Bunifi1.exe
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\bin\Debug\Bunifi1.pdb
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.Form1.resources
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.Properties.Resources.resources
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.csproj.CopyComplete
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.exe
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.pdb
+C:\Users\Pc\Desktop\Uygulamalarım\c# FORM Örnek\Bunifi1\Bunifi1\obj\Debug\Bunifi1.csprojAssemblyReference.cache

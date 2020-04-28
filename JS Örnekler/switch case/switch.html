@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+let islem=(prompt("Toplama için:1  Çıkarma için:2  Çarpma için-3 Bölme için-4'e Basınız"));
+islem=Number(islem);
+let sayi1,sayi2,sonuc;
+switch(islem){
+case 1:
+if (sayi1==null) {
+        document.write("Lütfen Sayı Giriniz");
+        
+    }
+    sayi1=prompt("1.sayıyı Giriniz");
+    sayi1=Number(sayi1);
+  
+    if (sayi2==null) {
+        document.write("Lütfen Sayı Giriniz");
+    }
+    sayi2=prompt("2.sayıyı Giriniz");
+ 
+    sayi2=Number(sayi2);
+    sonuc=sayi1+sayi2;
+    document.write("Toplama İşlemi Sonucunuz:"+sonuc);
+    break;
+case 2:
+    let tersdurum;
+    if (sayi1==null) {
+        document.write("Lütfen Sayı Giriniz")
+    }
+    sayi1=Number(sayi1);
+    sayi1=prompt("1.sayıyı Giriniz");
+    if (sayi2==null) {
+        document.write("Lütfen Sayı Giriniz")
+    }
+sayi2=Number(sayi2);
+    sayi2=prompt("2.sayıyı Giriniz");
+   
+    if(sayi1>sayi2){
+        sonuc=sayi1-sayi2;
+        document.write("Çıkarma İşlemi Sonucunuz:"+sonuc);
+    }
+    else{
+        tersdurum=sayi2-sayi1;
+        document.write("Büyük Sayıdan Küçük Sayı Çıkarıldı!!!" +"sonucunuz:"+tersdurum);
+        
+    }
+    
+    break;
+case 3:
+if (sayi1==null) {
+        document.write("Lütfen Sayı Giriniz")
+    }
+sayi1=prompt("1.sayıyı Giriniz");
+
+    if (sayi2==null) {
+        document.write("Lütfen Sayı Giriniz")
+
+    }
+sayi1=Number(sayi1);
+sayi2=prompt("2.sayıyı Giriniz");
+sayi2=Number(sayi2);
+    sonuc=sayi1*sayi2;
+    document.write("Çarpma İşlemi Sonucunuz:"+sonuc);
+    break;
+    
+ case 4:
+ if (sayi1==null) {
+        document.write("Lütfen Sayı Giriniz")
+    }
+    sayi1=prompt("1.sayıyı Giriniz");
+
+    sayi1=Number(sayi1);
+   
+    if (sayi2==null) {
+        document.write("Lütfen Sayı Giriniz")
+
+    }
+    sayi2=prompt("2.sayıyı Giriniz");
+    sayi2=Number(sayi2);
+    sonuc=sayi1/sayi2;
+    document.write("Toplama İşlemi Sonucunuz:"+sonuc );
+    break;
+
+
+
+
+    default:
+        document.write("Geçersiz Giriş");
+}
+
+
+    </script>
+    
+</body>
+</html>

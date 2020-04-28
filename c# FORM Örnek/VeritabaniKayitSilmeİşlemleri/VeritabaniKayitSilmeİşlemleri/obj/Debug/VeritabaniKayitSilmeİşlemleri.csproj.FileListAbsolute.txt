@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\bin\Debug\VeritabaniKayitSilmeİşlemleri.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\bin\Debug\VeritabaniKayitSilmeİşlemleri.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\bin\Debug\VeritabaniKayitSilmeİşlemleri.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.Form1.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeritabaniKayitSilmeİşlemleri\VeritabaniKayitSilmeİşlemleri\obj\Debug\VeritabaniKayitSilmeİşlemleri.pdb

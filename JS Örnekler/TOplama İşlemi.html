@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<style>
+		label {
+			display: block;
+			 margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+<h1>Örnek Toplama</h1>
+<form>
+<label>1.Sayıyı Giriniz:
+<input type="text" id="s1">
+</label>
+<label>2.Sayıyı Giriniz:
+<input type="text" id="s2">
+</label>
+<input type="button" value="Sayıları Topla" id="hesap">
+</form>
+
+<div id="sonuc"></div>
+<script>
+	var sayi1=document.getElementsByTagName('s1');
+	var sayi2=document.getElementsByTagName('s2');
+	var hesabtn=document.getElementsByTagName('hesap');
+	var sonuc=document.getElementsByTagName('sonuc')
+	hesabtn.onclick=function()
+	{
+		var Toplam=Number(sayi1.value) + Number(sayi2.value);
+		sonuc.İnnerHTML=Toplam;
+	}
+</script>
+</body>
+</html>

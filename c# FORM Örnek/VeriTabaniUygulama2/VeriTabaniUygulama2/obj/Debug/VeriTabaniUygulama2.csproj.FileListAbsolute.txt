@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\bin\Debug\VeriTabaniUygulama2.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\bin\Debug\VeriTabaniUygulama2.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\bin\Debug\VeriTabaniUygulama2.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.Form1.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\VeriTabaniUygulama2\VeriTabaniUygulama2\obj\Debug\VeriTabaniUygulama2.pdb

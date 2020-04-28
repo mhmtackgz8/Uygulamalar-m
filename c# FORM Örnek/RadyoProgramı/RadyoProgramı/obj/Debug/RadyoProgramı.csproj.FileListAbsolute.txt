@@ -1,0 +1,14 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\bin\Debug\RadyoProgramı.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\bin\Debug\RadyoProgramı.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\bin\Debug\RadyoProgramı.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.csproj.ResolveComReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.Form1.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\RadyoProgramı\RadyoProgramı\obj\Debug\RadyoProgramı.csprojAssemblyReference.cache

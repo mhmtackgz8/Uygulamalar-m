@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\bin\Debug\1.Ders.exe.config
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\bin\Debug\1.Ders.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\bin\Debug\1.Ders.pdb
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\1.Ders.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\_1.Ders.Form1.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\_1.Ders.Properties.Resources.resources
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\1.Ders.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\1.Ders.exe
+C:\Users\Pc\Desktop\c# FORM Örnek\1.Ders\1.Ders\obj\Debug\1.Ders.pdb
